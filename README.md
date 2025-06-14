@@ -1,1 +1,1 @@
-# University projects made with HTML, CSS, and Bootstrap
+# University project made with HTML, CSS, and Bootstrap
