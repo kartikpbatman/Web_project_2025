@@ -20,6 +20,9 @@ A modern, responsive frontend web project built using **HTML**, **CSS**, and **J
 - **CSS3**
 - **Bootstrap**
 
+---
+
+## Github Pages [Link](https://kartikpbatman.github.io/Web_project_2025/)
 
 ---
 
